@@ -25,7 +25,10 @@
         "xstddef": "c",
         "type_traits": "c",
         "utility": "c",
-        "ranges": "c"
+        "ranges": "c",
+        "sstream": "cpp",
+        "regex": "cpp",
+        "strstream": "cpp"
     },
     "[markdown]": {
         "editor.trimAutoWhitespace": false,
