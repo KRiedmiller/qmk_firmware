@@ -21,7 +21,9 @@
         "ranges": "c",
         "sstream": "cpp",
         "regex": "cpp",
-        "strstream": "cpp"
+        "strstream": "cpp",
+        "compare": "c",
+        "cstdint": "c"
     },
     "[markdown]": {
         "editor.trimAutoWhitespace": false,

@@ -1,3 +1,4 @@
+ENCODER_ENABLE = yes
 ENCODER_MAP_ENABLE = yes
 COMMAND_ENABLE = no # for space_cadet
 SPACE_CADET_ENABLE = no
