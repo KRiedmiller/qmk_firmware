@@ -46,7 +46,7 @@
 
 #define SPLIT_WPM_ENABLE
 #define SPLIT_OLED_ENABLE
-#define TAPPING_TERM 200
+#define TAPPING_TERM 165
 
 
 
