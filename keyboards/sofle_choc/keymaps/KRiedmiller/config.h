@@ -27,6 +27,7 @@
 // #define RGB_DISABLE_WHEN_USB_SUSPENDED     // turn off effects when suspended
 #define SPLIT_TRANSPORT_MIRROR             // If LED_MATRIX_KEYPRESSES or LED_MATRIX_KEYRELEASES is enabled, you also will want to enable SPLIT_TRANSPORT_MIRROR
 #define RGB_MATRIX_MAXIMUM_BRIGHTNESS 200  // limits maximum brightness of LEDs (max 255). Higher may cause the controller to crash.
+#define RGBLIGHT_SLEEP
 
 // space cadet for left ctrl
 //#define LCPO_KEYS KC_LCTL, KC_TRNS, KC_ESC
@@ -41,12 +42,7 @@
 #define NO_MUSIC_MODE
 #define LAYER_STATE_8BIT
 
-// Limit the number of layers that the firmware can use to save space
-#define LAYER_STATE_8BIT
-
 #define SPLIT_WPM_ENABLE
 #define SPLIT_OLED_ENABLE
 #define TAPPING_TERM 165
-
-
 
