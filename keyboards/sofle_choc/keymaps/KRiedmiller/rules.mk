@@ -13,3 +13,6 @@ COMMAND_ENABLE = no
 MUSIC_ENABLE = no
 SPACE_CADET_ENABLE = no
 MAGIC_ENABLE = no
+
+# Try to make keyboard usable in uefi
+SLEEP_LED_ENABLE=no
